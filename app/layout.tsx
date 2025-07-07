@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Pedidos de Camisetas UMADCLI",
   description: "Sistema para gerenciar pedidos de camisetas da UMADCLI",
-    generator: 'v0.dev'
+    generator: 'gvsoftware.tech'
 }
 
 export default function RootLayout({
